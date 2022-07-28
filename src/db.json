@@ -1,0 +1,54 @@
+{
+  "books": [
+    {
+      "id": "uuid",
+      "author": " Gloria Cook",
+      "Description": "The new book in the popular Harvey series - It is 1948, and the village of Hennaford is struggling to recover from the war. Johnny Harvey is disillusioned; injured in the war and disturbed at the changing society; life seems to be passing him by. Meanwhile, sixteen-year-old Tess Viant, crippled with polio and abandoned by her family, is befriended by Jill Harvey. Jill is delighted to be pregnant after four years of marriage to Tom, but when complications arise, it's Tess who has to help Jill . . .",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/A_Whisper_Of_Life_Harvey_Family_Sagas2022-06-16-11-20-45.jpg",
+      "book_name": "A Whisper Of Life Harvey Family Sagas ",
+      "category": "ROMANCE-BOOKS",
+      "release_year": 1948,
+      "price":150
+    },
+    {
+      "id": "uuid",
+      "author": "Gloria Cook",
+      "Description": "Take one aspiring cook, one judge, and a spoonful of romance...",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Recipe_For_Love2020-12-15-16-41-20.jpg",
+      "book_name": "A Whisper Of Life Harvey Family Sagas",
+      "category": "ROMANCE-BOOKS",
+      "release_year":2013,
+      "price":150
+    },
+    {
+      "id": "uuid",
+      "author": "Fforde Katie",
+      "Description": "nhtdjydyj",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Recipe_For_Love2020-12-15-16-41-20.jpg",
+      "book_name": "Recipe For Love",
+      "category": "ROMANCE-BOOKS",
+      "release_year":200,
+      "price":750
+    },
+    {
+      "id": "uuid",
+      "author": "Alice Sebold ",
+      "Description": "My name was Salmon, like the fish; first name, Susie. I was fourteen when I was murdered on December 6, 1973. My murderer was a man from our neighborhood. My mother liked his border flowers, and my father talked to him once about fertilizer.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/3576",
+      "book_name": "The Lovely Bones",
+      "category": "ROMANCE-BOOKS",
+      "release_year":2009,
+      "price":405
+    },
+    {
+      "id": "uuid",
+      "author": "John Green",
+      "Description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/6647",
+      "book_name": "The Fault In Our Stars",
+      "category": "ROMANCE-BOOKS",
+      "release_year":1999,
+      "price":786
+    }
+  ]
+}
