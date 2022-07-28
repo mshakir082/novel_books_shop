@@ -2,6 +2,7 @@ import React from 'react'
 import {Box,Flex,Icon} from '@chakra-ui/react'
 import {BsCart3} from 'react-icons/bs';
 import styled from 'styled-components'
+import { Login } from './Login';
 const Navbar = () => {
   return (
     <Box>
@@ -10,7 +11,7 @@ const Navbar = () => {
                     <Box width='40%' >Welcome to the Online Novel books Shop</Box>
                     <Box width='40%'>
                         <Flex justifyContent={'space-evenly'} gap='10' >
-                            <Box cursor="pointer" >Log in</Box>
+                            <Box cursor="pointer" ><Login/></Box>
                             <Box cursor="pointer" >
                             <Icon as={BsCart3} boxSize="1.1rem" mt="7px"/> Cart
                             </Box>
