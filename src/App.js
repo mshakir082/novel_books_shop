@@ -1,25 +1,26 @@
 import './App.css';
-import Navbar from './Components/Navbar';
+// import CaptionCarousel from './Components/Slideshow';
+// import Navbar from './Components/Navbar';
 // import Header from './Components/Header';
-// import {SimpleSlider} from './Components/Slideshow';
+// import {SimpleSlider} from './Components/SimpleSlider';
 // import FeaturedCollections from './Components/FeaturedCollections';
 // import Months from './Components/Months';
 // import Footer from './Components/Footer';
-// import {ImageSlider} from './Components/Slider/ImageSlider';
-import MainRoutes from "./Components/MainRoutes"
+import AllRoutes from "./routes/AllRoutes"
 function App() {
   return (
     <div className="App">
-       <Navbar/>
-      {/* // <div style={{width:'75%',height:'auto',margin:'auto'}}>
-      //   <Header/> */}
-      //   {/* <Turner/> */}
-      //   {/* <FeaturedCollections/>
-      //   <Months/>
-       
-      // </div> */}
-      {/* // <Footer/> */}
-      <MainRoutes/>
+      {/* <Navbar/> */}
+      <div style={{width:'75%',height:'auto',margin:'auto'}}>
+        {/* <Header/>
+        <SimpleSlider/>
+        <FeaturedCollections/>
+
+        <Months/> */}
+        {/* <CaptionCarousel/> */}
+       <AllRoutes/>
+      </div>
+      {/* <Footer/> */}
     </div>
   );
 }

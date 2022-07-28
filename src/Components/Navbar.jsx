@@ -2,8 +2,10 @@ import React from 'react'
 import {Box,Flex,Icon} from '@chakra-ui/react'
 import {BsCart3} from 'react-icons/bs';
 import styled from 'styled-components'
-import { Login } from './Login';
+import { useSelector } from 'react-redux'
+import { Link } from 'react-router-dom'
 const Navbar = () => {
+  const isAuth = useSelector((state)=> state.isAuth.isAuth) 
   return (
     <Box>
       <Box border='1px solid black' width='100%' height='3rem' bg='#1A202C' padding='0.5rem'>
@@ -11,7 +13,12 @@ const Navbar = () => {
                     <Box width='40%' >Welcome to the Online Novel books Shop</Box>
                     <Box width='40%'>
                         <Flex justifyContent={'space-evenly'} gap='10' >
-                            <Box cursor="pointer" ><Login/></Box>
+                            {/* <Box cursor="pointer" >Log in</Box> */}
+                            {isAuth ?   <Link to='/logout'>LOGOUT</Link>
+                :   <Link to='/'>LOGIN</Link>
+        }
+       
+        <Link to='/register'>REGISTER</Link>
                             <Box cursor="pointer" >
                             <Icon as={BsCart3} boxSize="1.1rem" mt="7px"/> Cart
                             </Box>
