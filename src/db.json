@@ -49,6 +49,57 @@
       "category": "ROMANCE-BOOKS",
       "release_year":1999,
       "price":786
+    },
+    {
+      "id": "uuid",
+      "author": "Dickens Charles",
+      "Description": "David Copperfield is the story of a young man's adventures on his journey from an unhappy and impoverished childhood to the discovery of his vocation as a successful novelist. Among the gloriously vivid cast of characters he encounters are his tyrannical stepfather, Mr Murdstone; his brilliant, but ultimately unworthy school-friend James Steerforth; his formidable aunt, Betsey Trotwood; the eternally humble, yet treacherous Uriah Heep; frivolous, enchanting Dora Spenlow; and the magnificently impecunious Wilkins Micawber, one of literature's great comic creations. In David Copperfield - the novel he described as his 'favourite child' - Dickens drew revealingly on his own experiences to create one of the most exuberant and enduringly popular works, filled with tragedy and comedy in equal measure. This edition uses the text of the first volume publication of 1850, and includes updated suggestions for further reading, original illustrations by 'Phiz', a revised chronology and expanded notes. In his new introduction, Jeremy Tambling discusses the novel's autobiographical elements, and its central themes of memory and identity.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/David_Copperfield_The_Penguin_English_Library2020-12-15-16-31-05.jpg",
+      "book_name": "David Copperfield The Penguin English Library ",
+      "category": "classics-literature-books",
+      "release_year":1998,
+      "price":165
+    },
+    {
+      "id": "uuid",
+      "author": "Anne Brontë Peter Merchant",
+      "Description": "Librarian note: Alternate cover editions for this ISBN are:(with the title on white andon a black and blue background",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/The_Tenant_Of_Wildfell_Hall2021-11-03-09-15-09.jpg",
+      "book_name": "The Tenant Of Wildfell Hall ",
+      "category": "classics-literature-books",
+      "release_year":2003,
+      "price":187
+    },
+    {
+      "id": "uuid",
+      "author": " Elizabeth Gaskell Martin Dodsworth Dorothy Collin",
+      "Description": "When Margaret Hale's father leaves the Church in a crisis of conscience she is forced to leave her comfortable home in the tranquil countryside of Hampshire and move with her family to the fictional industrial town of Milton in the north of England. Though at first disgusted by her new surroundings, she witnesses the brutality wrought by the Industrial Revolution and becomes aware of the poverty and suffering of the local mill workers. Sympathetic to the poor she makes friends among them and develops a fervent sense of social justice. She clashes with the mill-owner and self-made man, John Thornton, who is contemptuous of his workers. However, their fierce opposition masks a deeper attraction.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/North_And_South2021-08-06-17-28-19.jpg",
+      "book_name": "North And South ",
+      "category": "classics-literature-books",
+      "release_year":2020,
+      "price":198
+    },
+    {
+      "id": "uuid",
+      "author": "Charles Dickens",
+      "Description": "Little Dorrit is a rich tale of love, secrets, blackmail and betrayal, and fortunes made and lost with both humorous and tragic consequences.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Little_Dorrit2021-01-04-08-20-16.jpg",
+      "book_name": "Little Dorrit",
+      "category": "classics-literature-books",
+      "release_year":2016,
+      "price":987
+    },
+    {
+      "id": "uuid",
+      "author": "Robert Louis",
+      "Description": "Climb aboard for the swashbuckling adventure of a lifetime. Treasure Islandhas enthralled (and caused slight seasickness) for decades. The names Long John Silver and Jim Hawkins are destined to remain pieces of folklore for as long as children want to read Robert Louis Stevenson's most famous book. With it's dastardly plot and motley crew of rogues and villains, it seems unlikely that children will ever say no to this timeless classic.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Treasure_Island2020-12-18-06-08-44.jpg",
+      "book_name": "Treasure Island",
+      "category": "classics-literature-books",
+      "release_year":2007,
+      "price":765
     }
+
   ]
 }
