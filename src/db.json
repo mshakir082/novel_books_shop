@@ -199,6 +199,56 @@
       "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
       "release_year":2010,
       "price":270
+    },
+    {
+      "id": "uuid",
+      "author": "Max Brooks",
+      "Description": "It began with rumours from China about another pandemic... Then the cases started to multiply and what had looked like the stirrings of a criminal underclass, even the beginnings of a revolution, soon revealed itself to be much, much worse. Faced with a future of mindless, man-eating horror, humanity was forced to accept the logic of world government and face events that tested our sanity and our sense of reality.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/World_War_Z_An_Oral_History_Of_The_Zombie_War2022-02-10-16-32-39.jpg",
+      "book_name": "World War Z An Oral History Of The Zombie War",
+      "category": "horror-books",
+      "release_year":2011,
+      "price":290
+    },
+    {
+      "id": "uuid",
+      "author": "Stephen King",
+      "Description": "Civilization slipped into its second dark age on an unsurprising track of blood but with a speed that could not have been foreseen by even the most pessimistic futurist. By Halloween, every major city from New York to Moscow stank to the empty heavens and the world as it had been was a memory.` The event became known as The Pulse. The virus was carried by every cell phone operating within the entire world. Within ten hours, most people would be dead or insane.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Cell2021-10-11-19-06-51.jpg",
+      "book_name": "Cell",
+      "category": "horror-books",
+      "release_year":2017,
+      "price":790
+    },
+    {
+      "id": "uuid",
+      "author": "Irwin Stephen",
+      "Description": "After his wife's sudden death, Nick Close has decided to leave London and return to Australia, hoping that distance will bring oblivion. But Tallong, his run-down childhood home, doesn't hold much comfort either: Thirty years ago, he and his best friend Tristram were lured into the woods at the edge of town.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/THE_DARKENING2020-08-31-19-10-23.jpg",
+      "book_name": "The Darkening",
+      "category": "horror-books",
+      "release_year":2019,
+      "price":590
+    },
+    {
+      "id": "uuid",
+      "author": "Masello Robert",
+      "Description": "When journalist Michael Wilde is commissioned to write a feature about a remote research station deep in the frozen beauty of Antarctica he is prepared for some extraordinary sights. But on a diving expedition in the polar sea he comes across something so extraordinary to be almost unbelievable - a man and woman chained together, deep in the ice.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Blood_And_Ice2020-12-15-16-42-31.jpg",
+      "book_name": "Blood And Ice",
+      "category": "horror-books",
+      "release_year":2013,
+      "price":599
+    },
+    {
+      "id": "uuid",
+      "author": "Stephanie Merritt",
+      "Description": "On a remote Scottish island, the McBride house stands guard over its secrets. A century ago, a young widow and her son died mysteriously there; just last year a local boy, visiting for a dare, disappeared without a trace.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/While_You_Sleep2022-06-01-14-41-11.jpg",
+      "book_name": "While You Sleep",
+      "category": "horror-books",
+      "release_year":2013,
+      "price":2226
     }
 
   ]
