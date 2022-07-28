@@ -149,6 +149,56 @@
       "category": "SCIENCE-FICTION-BOOKS",
       "release_year":1998,
       "price":527
+    },
+    {
+      "id": "uuid",
+      "author": " Dick Francis",
+      "Description": "It's the third death on Cheltenham Gold Cup Day that really troubles Sid Halley. He knows the perils of racing all too well - but in his day, jockeys didn't reach the finishing line with three .38 rounds in the chest. This is precisely how he finds jockey Huw Walker - who, only a few hours earlier, had won the Triumph Hurdle.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/UNDER_ORDERS2020-08-28-16-38-00",
+      "book_name": "Under Orders",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year":2004,
+      "price":186
+    },
+    {
+      "id": "uuid",
+      "author": "Smith Wilbur",
+      "Description": "PREDATOR is a novel brimming with the swashbuckling panache and gripping tension Wilbur fans love and new reasers will be thrilled by.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/PREDATOR2020-08-25-14-41-58",
+      "book_name": "Predator",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year":2016,
+      "price":134
+    },
+    {
+      "id": "uuid",
+      "author": "Picoult Jodi",
+      "Description": "Sara Fitzgerald's daughter Kate is just two years old when she is diagnosed with a rare form of leukaemia. Reeling with the helpless shock of it, Sara knows she will do anything - whatever it takes - to save her child.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/MY_SISTERS_KEEPER2020-08-28-17-06-07",
+      "book_name": "My Sisters Keeper",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year":1970,
+      "price":185
+    },
+    {
+      "id": "uuid",
+      "author": "Patterson James",
+      "Description": "Detective Alex Cross is one of the first on the scene of the biggest case he's ever been part of. The President's son and daughter have been abducted from their school - an impossible crime, but somehow the kidnapper has done it. Alex does everything he can but is shunted to the fringes of the investigation. Someone powerful doesn't want Cross too close.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/KILL_ALEX_CROSS_ALEX_CROSS_182020-08-28-15-07-41",
+      "book_name": "Kill Alex Cross Alex Cross 18",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year":2012,
+      "price":500
+    },
+    {
+      "id": "uuid",
+      "author": "Cussler Clive",
+      "Description": "In the remote wastes of Greenland, a young scientist has unearthed a hidden artefact - a 50,000 year-old meteorite known as the Sacred Stone. When he discovers its potentially catastrophic powers, he finds himself in the crosshairs of two opposing terrorist groups.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/SACRED_STONE_OREGON_FILES_22020-08-26-14-17-44",
+      "book_name": "Sacred Stone Oregon Files",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year":2010,
+      "price":270
     }
 
   ]
