@@ -99,6 +99,56 @@
       "category": "classics-literature-books",
       "release_year":2007,
       "price":765
+    },
+    {
+      "id": "uuid",
+      "author": "Meyer Stephenie",
+      "Description": "Our World has been invaded by an unseen enemy. Humans become hosts for these invaders, their minds taken over while their bodies remain intact and continue their lives apparently unchanged. Most of humanity has succumbed.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/THE_HOST_FILM_TIE_IN2020-08-31-16-05-55.jpg",
+      "book_name": "The Host",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year":2013,
+      "price":169
+    },
+    {
+      "id": "uuid",
+      "author": "Andy Weir ",
+      "Description": "If the Oxygenator breaks down, I`ll suffocate. If the Water Reclaimer breaks down, I’ll die of thirst. If the Hab breaches, I’ll just kind of explode. If none of those things happen, I’ll eventually run out of food and starve to death.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/The_Martian_Stranded_On_Mars_One_Astronaut_Fights_To_Survive2020-12-27-02-16-34.jpg",
+      "book_name": "The Martian Stranded On Mars One Astronaut Fights To Survive",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year":2005,
+      "price":207
+    },
+    {
+      "id": "uuid",
+      "author": "Cavan Scott",
+      "Description": "It is a dark time in a galaxy far, far away...When the parents of Milo and Lina Graf are abducted by agents of the evil Empire, the children must undertake a perilous journey across the unknown reaches of Wild Space to rescue them - and to discover hope for the future.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/The_Escape2021-01-04-07-57-03.jpg",
+      "book_name": "The Escape",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year":2009,
+      "price":406
+    },
+    {
+      "id": "uuid",
+      "author": " Meyer Stephenie",
+      "Description": "Melanie Stryder refuses to fade away. The earth has been invaded by a species that takes over the minds of their human hosts while leaving their bodies intact, and most of humanity has succumbed.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/THE_HOST2020-08-31-15-39-14.jpg",
+      "book_name": "The Host",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year":2008,
+      "price":209
+    },
+    {
+      "id": "uuid",
+      "author": " Isaac Asimov Chris Foss",
+      "Description": "Elijah Baley has faced Departmental hostility since his return to Earth from the planet Solaria, where he solved the first murder to be committed in 200 years. Against his will, a hyperwave drama was made of the case, thanks to Delmarre, the murder suspect whom he proved innocent.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/The_Robots_Of_Dawn_Robot_32022-07-06-11-56-00.jpg",
+      "book_name": "The Robots Of Dawn Robot",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year":1998,
+      "price":527
     }
 
   ]
