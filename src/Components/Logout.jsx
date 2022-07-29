@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { useDispatch } from 'react-redux'
 import { useNavigate } from 'react-router-dom';
-import { loginSuccess, logoutSuccess } from '../redux/auth/authaction';
+import { loginSuccess, logoutSuccess } from '../Redux/auth/authaction';
 
 const Logout = () => {
 

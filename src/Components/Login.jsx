@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useDispatch } from 'react-redux';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { login, loginFailure, loginSuccess} from "../redux/auth/authaction"
+import { login, loginFailure, loginSuccess} from "../Redux/auth/authaction"
 
 const Login = () => {
 
