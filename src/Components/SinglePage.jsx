@@ -1,19 +1,31 @@
-import { Box, Button, Flex, Icon, Image, Text } from "@chakra-ui/react";
 import { Progress } from "@chakra-ui/progress";
+import {
+  Box,
+  Button, 
+  Flex,
+  Image, 
+  Text,
+  Modal,
+  ModalOverlay,
+  ModalContent,
+  ModalHeader,
+  ModalFooter,
+  ModalBody,
+  ModalCloseButton,
+  useDisclosure,
+} from "@chakra-ui/react";
+
+
 
 import "react-responsive-carousel/lib/styles/carousel.min.css";
-import { Carousel } from "react-responsive-carousel";
 import styles from "./Ssingle.module.css";
-
-import { BiHeart } from "react-icons/bi";
-import { BsFacebook, BsTwitter } from "react-icons/bs";
-
 import React from "react";
 // import {useState} from "react"
 // import { useParams } from 'react-router-dom';
 // import { useSelector } from 'react-redux';
 let count = 0;
 const SinglePage = () => {
+  const { isOpen, onOpen, onClose } = useDisclosure()
   // const CurrentData=useSelector(state=>state.Appreducer.products)
   // console.log(CurrentData)
   //     const[data,setData]=useState({})
@@ -42,7 +54,7 @@ const SinglePage = () => {
         <Box></Box>
         <Box>
           <br />
-          <br/>
+          <br />
           <Box>
             <Text color={"#088366"}>INDEMAND</Text>
           </Box>
@@ -58,10 +70,11 @@ const SinglePage = () => {
           </Box>
           {/* icon and head */}
           <Box justifyContent={"right"}>
-            <Text display={"flex"} fontWeight="bold" >Release Year: <Text>1999</Text></Text>
-            
+            <Text display={"flex"}>
+              Release Year: <Text fontWeight="bold">1999</Text>
+            </Text>
           </Box>
-          <br/>
+          <br />
           {/* price */}
           <Box
             marginBottom={"10px"}
@@ -71,7 +84,6 @@ const SinglePage = () => {
             <Text textDecoration={"HighlightText"} fontSize={"2xl"}>
               RS:150
             </Text>
-            <Text>Rent Price:Rs10/day</Text>
           </Box>
 
           <br />
@@ -83,10 +95,10 @@ const SinglePage = () => {
               backgroundColor="Black"
               color="white"
               borderRadius={"5px"}
-              size='md'
-              height='48px'
-              width='200px'
-              borderColor='white.500'
+              size="md"
+              height="48px"
+              width="200px"
+              borderColor="white.500"
             >
               Buy
             </Button>
@@ -96,18 +108,50 @@ const SinglePage = () => {
                 backgroundColor="Red"
                 color="white"
                 borderRadius={"5px"}
-                size='md'
-                height='48px'
-                width='200px'
-                borderColor='blue.500'
+                size="md"
+                height="48px"
+                width="200px"
+                borderColor="blue.500"
               >
                 Rent
               </Button>
             </Flex>
           </Flex>
           <br />
-          <br />
 
+          {/* function BasicUsage() {
+  const { isOpen, onOpen, onClose } = useDisclosure()
+
+  return (
+    <> */}
+          <Button onClick={onOpen} colorScheme='skyblue' variant='link'>Terms And Condition</Button>
+
+          <Modal blockScrollOnMount={false} isOpen={isOpen} onClose={onClose}>
+            <ModalOverlay />
+            <ModalContent>
+              <ModalHeader>Terms And Condition</ModalHeader>
+              <ModalCloseButton />
+              <ModalBody>
+                <Text fontWeight="bold" mb="1rem">
+                  You can scroll the content behind the modal
+                </Text>
+               decr
+              </ModalBody>
+
+              <ModalFooter>
+                <Button colorScheme="blue" mr={3} onClick={onClose}>
+                  Close
+                </Button>
+                
+              </ModalFooter>
+            </ModalContent>
+          </Modal>
+          {/* </>
+  )
+} */}
+
+          <br />
+<br/>
           <Box>
             <Progress
               value={80}
@@ -119,7 +163,7 @@ const SinglePage = () => {
         </Box>
       </Box>
       <br />
-      
+
       <br />
       {/* description */}
 
