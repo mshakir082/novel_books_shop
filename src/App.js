@@ -7,7 +7,7 @@ import './App.css';
 // import FeaturedCollections from './Components/FeaturedCollections';
 // import Months from './Components/Months';
 // import Footer from './Components/Footer';
-import AllRoutes from "./routes/AllRoutes"
+// import AllRoutes from "./routes/AllRoutes"
 
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
@@ -18,16 +18,6 @@ function App() {
     <div className="App">
       {/* <Navbar/> */}
       <div style={{width:'75%',height:'auto',margin:'auto'}}>
-
-        {/* <Header/>
-        <SimpleSlider/>
-        <FeaturedCollections/>
-
-        <Months/> */}
-        {/* <CaptionCarousel/> */}
-       <AllRoutes/>
-      </div>
-      {/* <Footer/> */}
 
       <MainRoutes/>
        </div>

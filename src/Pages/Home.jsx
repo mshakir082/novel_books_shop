@@ -3,7 +3,7 @@ import Header from '../Components/Header';
 
 // import CaptionCarousel from '../Components/CaptionCarousel';
 
-import {SimpleSlider} from '../Components/SimpleSlider';
+// import {SimpleSlider} from '../Components/SimpleSlider';
 
 import FeaturedCollections from '../Components/FeaturedCollections';
 import Months from '../Components/Months';
@@ -14,7 +14,7 @@ const Home = () => {
 
         {/* <CaptionCarousel/> */}
 
-        <SimpleSlider/>
+        {/* <SimpleSlider/> */}
 
         <FeaturedCollections/>
         <Months/>
