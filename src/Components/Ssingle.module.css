@@ -6,11 +6,11 @@
     margin: auto;
     gap:50px;
     display: grid;
-    grid-template-columns:60% 40%;
+    grid-template-columns:30% 20% 50%;
 }
 .carousel{
     /* border:1px solid red; */
-    height:"500px"
+    height:"600px"
 }
 @media screen and (max-width:790px){
     .carousel{
