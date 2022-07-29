@@ -17,7 +17,7 @@ const Navbar = () => {
                             {!auth ? <Link to='/login'>Login</Link> 
                 : <Link to='/logout'>Logout</Link>}
        
-        <Link to='/register'>REGISTER</Link>
+        <Link to='/Main'>Home</Link>
                             <Box cursor="pointer" >
                             <Icon as={BsCart3} boxSize="1.1rem" mt="7px"/> Cart
                             </Box>
