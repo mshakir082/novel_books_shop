@@ -1,60 +1,60 @@
 import React, { useEffect, useState } from 'react'
-
-import { Link, useNavigate } from 'react-router-dom';
-
+import { useDispatch } from 'react-redux';
+import { useLocation, useNavigate } from 'react-router-dom';
+import { login, loginFailure, loginSuccess} from "../redux/auth/authaction"
 
 const Login = () => {
 
-    const [mail,setMail] = useState("") ;
+const [email,setEmail] = useState("eve.holt@reqres.in") ;
+const [password,setPassword] = useState("cityslicka")
 
-    const [password,setPassword] = useState("") ;
+const dispatch = useDispatch()
+const navigate = useNavigate()
+const location = useLocation()
+const comingFrom = location.state?.from?.pathname || "/"
 
-     //  let isAuth = useSelector((state)=>state.isAuth.isAuth)
+const handleLogin =(e) =>{
+  e.preventDefault() ;
 
-     //  const status = localStorage.getItem("loginStatus") 
+  let userData = {
+    email : email,
+    password: password
+  }
 
-     //  isAuth = status
-      
-
-    const navigate = useNavigate()
-
-//     const dispatch = useDispatch()
-    // const isAuth = useSelector(state=>state.isAuth)
-    let userData = JSON.parse(localStorage.getItem("userdata"))
-    const handleSubmit =(userData)=>{
-
-        let loginData = {
-            username : mail ,
-            password : password
-        }
-     //    console.log(loginData)
-     //    fetchData(dispatch,loginData)
-        if(mail == userData.email && password == userData.password){
-          navigate("/")
-        }
-    }
-
-//     useEffect(()=>{
-//      if(isAuth){
-//           localStorage.setItem("loginStatus",(isAuth))
-//           navigate('/home')
-//      }
-//     },[isAuth])
-
+  if(email && password)
+  {
+    dispatch(login(userData))
+    .then((r)=>{
+      console.log(r.data)
+      dispatch(loginSuccess(r.data))
+      navigate(comingFrom,{replace:true})
+  })
+  .catch((e)=>{
+      console.log(e) ;
+      dispatch(loginFailure())
+  })
+  }
+ 
+}
   return (
-   <>
-        <center><h2>LOGIN</h2></center>
-
+      <>
         <center>
-             <input type='text' placeholder='enter username'  onChange={(e)=>setMail(e.target.value)}  /> <br></br>
-             <input type='password'  placeholder='enter password' onChange={(e)=>setPassword(e.target.value)}  /> <br></br>
-             <button onClick={()=>handleSubmit()}>SUBMIT</button>
+        <h1>LOGIN</h1>
+        <br/>
+        <br/>
+          <form onSubmit={handleLogin}>
+            <div>
+              <input placeholder='enter email here' type='text' value={email} onChange={(e)=>setEmail(e.target.value)} style={{border:"1px solid black"}}/>
+            </div>
+            <br/>
+            <div>
+              <input placeholder='enter password here' type='password' value={password} onChange={(e)=>setPassword(e.target.value)} style={{border:"1px solid black"}} />
+            </div>
+            <br/>
+            <button type='submit' style={{color:"red", border:"2px solid black"}} >LOGIN</button>
+          </form>
         </center>
-        <br></br>
-        <center>
-                <Link to='/register'>If Not a user,<br></br>Register here</Link>
-        </center>
-   </>
+      </>
   )
 }
 

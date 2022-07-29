@@ -5,7 +5,7 @@ import styled from 'styled-components'
 import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
 const Navbar = () => {
-  const isAuth = useSelector((state)=> state.isAuth.isAuth) 
+  const auth = useSelector((state)=> state.authReducer.isAuth) 
   return (
     <Box>
       <Box border='1px solid black' width='100%' height='3rem' bg='#1A202C' padding='0.5rem'>
@@ -14,9 +14,8 @@ const Navbar = () => {
                     <Box width='40%'>
                         <Flex justifyContent={'space-evenly'} gap='10' >
                             {/* <Box cursor="pointer" >Log in</Box> */}
-                            {isAuth ?   <Link to='/logout'>LOGOUT</Link>
-                :   <Link to='/'>LOGIN</Link>
-        }
+                            {!auth ? <Link to='/login'>Login</Link> 
+                : <Link to='/logout'>Logout</Link>}
        
         <Link to='/register'>REGISTER</Link>
                             <Box cursor="pointer" >
