@@ -18,7 +18,7 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <div style={{width:'75%',height:'auto',margin:'auto'}}>
+      <div>
 {/* <SinglePage/> */}
       <MainRoutes/>
        </div>

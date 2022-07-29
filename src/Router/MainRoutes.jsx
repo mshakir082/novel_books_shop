@@ -11,7 +11,7 @@ const MainRoutes =()=>{
     return(
         <>
         <Routes>
-            <Route path='/' element={<Home/>}/>
+            <Route path='/' element={<Home/>} />
             <Route path='/historical' element={<Historical/>}/>
             <Route path="/login" element={<Login/>}/> 
         <Route path="/logout" element={<Logout/>}/> 

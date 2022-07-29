@@ -42,7 +42,7 @@ const SinglePage = () => {
 
   //         console.log(data)
   return (
-    <>
+    <div style={{width:'75%',height:'auto',margin:'auto'}}>
       <Box className={styles.singlepageparent} marginTop={"50px"}>
         <Box justifyContent={"center"}>
           <Image
@@ -186,7 +186,7 @@ const SinglePage = () => {
           it's Tess who has to help Jill . . .
         </Text>
       </Box>
-    </>
+    </div>
   );
 };
 
