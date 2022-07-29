@@ -100,7 +100,7 @@ const SinglePage = () => {
               width="200px"
               borderColor="white.500"
             >
-              Buy
+              Add To Cart
             </Button>
             <Flex gap="10px">
               <Button

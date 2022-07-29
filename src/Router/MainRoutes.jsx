@@ -4,6 +4,7 @@ import Historical from '../Pages/Historical'
 import Login from '../Components/Login'
 import Logout from '../Components/Logout'
 import SinglePage from "../Components/SinglePage";
+import Main from "../Pages/Main";
 
 const MainRoutes =()=>{
 
@@ -15,6 +16,7 @@ const MainRoutes =()=>{
             <Route path="/login" element={<Login/>}/> 
         <Route path="/logout" element={<Logout/>}/> 
         <Route path="/singlePage" element={<SinglePage/>}/> 
+        <Route path="/main" element={<Main/>}/> 
     
         </Routes>
         </>
