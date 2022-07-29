@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from '../Components/Header';
 
-// import CaptionCarousel from '../Components/CaptionCarousel';
+import CaptionCarousel from '../Components/CaptionCarousel';
 
 // import {SimpleSlider} from '../Components/SimpleSlider';
 
@@ -12,7 +12,7 @@ const Home = () => {
     <div>
        <Header/>
 
-        {/* <CaptionCarousel/> */}
+        <CaptionCarousel/>
 
         {/* <SimpleSlider/> */}
 

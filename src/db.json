@@ -249,6 +249,86 @@
       "category": "horror-books",
       "release_year":2013,
       "price":2226
+    },
+    {
+      "id": "uuid",
+      "author": "Jeremy Black",
+      "Description": "Covering recent historical developments, this updated atlas is an accessible visual timeline of history. Full colour.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/World_History_Atlas2022-05-10-20-13-42.jpg",
+      "book_name": "World History Atlas",
+      "category": "Historical",
+      "release_year":2013,
+      "price":226
+    },
+    {
+      "id": "uuid",
+      "author": "John Keay",
+      "Description": "The first single-volume history of India since the 1950s, combining narrative pace and skill with social, economic and cultural analysis. Five millennia of the sub-continent's history are interpreted by one of our finest writers on India and the Far East.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/India_A_History2022-05-24-18-25-54.jpg",
+      "book_name": "India A History",
+      "category": "Historical",
+      "release_year":1943,
+      "price":200
+    },
+    {
+      "id": "uuid",
+      "author": "Marr Andrew ",
+      "Description": "This engaging volume tells the story of how the great political visions and idealisms of Victorian Britain came to be defeated by a culture of consumerism, celebrity, and self-gratification. It explains how in each decade, political leaders found themselves confounded by the British people, who always turned out to be harder to herd than predicted. Historically Britain has been a country on the edge—first of invasion, then of bankruptcy, then on the vulnerable front line of the Cold War, and later in the forefront of the great opening up of capital and migration. This history follows all the political and economic stories of the modern era as well as with such social trends as comedy, cars, the war against homosexuals, oil-men and punks, Margaret Thatcher’s wonderful good luck, political lies, and the true heroes of British theater. ",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/A_History_Of_Modern_Britain2020-12-15-16-10-16.jpg",
+      "book_name": "A History Of Modern Britain",
+      "category": "Historical",
+      "release_year":2008,
+      "price":267
+    },
+    {
+      "id": "uuid",
+      "author": "Bh Liddell Hart ",
+      "Description": "History of the Second World War, B.H. Liddell Hart's last work as well as his magnum opus, embodies the fruits of 20 years of research & a lifetime of thinking on war. It abounds with controversial judgments, including provocative assertions about the true causes behind France's defeat in 1940, Hitler's failed invasion of Russia & Japan's stunning victory at Pearl Harbor; the effectiveness of the Allies' strategic bombing of Germany; the questionable necessity of detonating atom bombs over Hiroshima & Nagasaki; & much more. This monumental history is both a crowning achievement & a final summation by one of the greatest military thinkers of the 20th century.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/History_Of_The_Second_World_War2022-05-30-16-29-14.jpg",
+      "book_name": "History Of The Second World War",
+      "category": "Historical",
+      "release_year":2017,
+      "price":2264
+    },
+    {
+      "id": "uuid",
+      "author": "Mike Ashley ",
+      "Description": "The story of Arthur, Camelot and the Knights of the Round Table has been handed on by medieval poets and mythical stories--but what if he did indeed reign as a great king in the early years of Britain's history? If so, who was he? And what do the historical documents tell us about him? This lively brief history re-examines the sources material and finds clear evidence that the Arthurian legends arise from the exploits of at least three men, originating in Wales, Scotland and Brittany.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/A_Brief_History_Of_King_Arthur2021-12-16-15-35-26.jpg",
+      "book_name": "A Brief History Of King Arthur",
+      "category": "Historical",
+      "release_year":2013,
+      "price":229
+    },
+    {
+      "id": "uuid",
+      "author": "Ramachandra Guha ",
+      "Description": "A magisterial account of the pains, the struggles, the humiliations, and the glories of the world's largest and least likely democracy, Ramachandra Guha's India After Gandhi is a breathtaking chronicle of the brutal conflicts that have rocked a giant nation and the extraordinary factors that have held it together. An intricately researched and elegantly written epic history peopled with larger-than-life characters, it is the work of a major scholar at the peak of his abilities.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/INDIA_AFTER_GANDHI_THE_HISTORY_OF_THE_WORLDS_LARGEST_DEMOCRACY2020-07-22-12-33-05",
+      "book_name": "India After Gandhi The History Of The Worlds Largest Democracy",
+      "category": "Historical",
+      "release_year":2007,
+      "price":330
+    },
+    {
+      "id": "uuid",
+      "author": "Geoffrey Wheatcroft ",
+      "Description": "When Henri Desgrange began a new bicycle road race in 1903, he saw it as little more than a temporary publicity stunt to promote his newspaper. The 60 cyclists who left Paris to ride through the night to Lyons that first July had little idea they were pioneers of the most famous of all bike races, which would reach its centenary as one of the greatest sporting events on earth. Geoffrey Wheatcroft's masterly history of the Tour de France's first hundred years is not just a hugely entertaining canter through some great Tour stories; nor is it merely a homage to the riders whose names—Coppi, Simpson, Mercx, Armstrong—are synonymous with the event's folly and glory. Focusing too on the race's role in French cultural life, it provides a unique and fascinating insight into Europe's 20th century.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Le_Tour_A_History_Of_The_Tour_De_France_1903_--_20032021-02-20-16-59-10.jpg",
+      "book_name": "Le Tour A History Of The Tour De France 1903",
+      "category": "Historical",
+      "release_year":2003,
+      "price":168
+    },
+    {
+      "id": "uuid",
+      "author": "Jon Snow",
+      "Description": "The compelling autobiography of one of the great and most committed newsmen of our time: full, frank, and occasionally very funny, Jon Snow’s memoirs are as revealing about the great and the not-so-good as about his own passionate involvement in the reporting of world affairs.Jon Snow is perhaps the most highly regarded newsman of our time; his qualities as a journalist and as a human being – his passion, warmth, intelligence, frankness and humour – are widely recognised and evident for all to see most nights on Channel 4 News and now in the pages of his first book.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Shooting_History2021-12-11-17-29-40.jpg",
+      "book_name": "Shooting History",
+      "category": "Historical",
+      "release_year":2006,
+      "price":2268
     }
 
   ]
