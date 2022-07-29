@@ -1,14 +1,22 @@
 import React from 'react'
 import {Link,useNavigate} from 'react-router-dom'
 import {Box,Flex,Select,Image,Stack,Text} from '@chakra-ui/react'
+
 const Header = () => {
-
-
-  const navigate=useNavigate();
+const navigate=useNavigate();
   const handelChange =(e)=>{
     if(e.target.value==='Historical'){
       navigate('/historical')
-    }
+      }else if(e.target.value==='Fantasy'){
+      navigate('/fantacy')
+      }else if(e.target.value==='Science'){
+        navigate('/science')
+        }else if(e.target.value==='Mystery'){
+          navigate('/mystery')
+          }else if(e.target.value==='Horror'){
+            navigate('/horror')
+            }
+       
   }
   return (
     <Box >
@@ -22,9 +30,11 @@ const Header = () => {
             <Flex padding='2.5rem'>
               <Box>
                 <Select placeholder='Collections' border = 'none' width ='100%' fontWeight='450' fontSize='16px'>
-                <option value='option1'>Option 1</option>
-                <option value='option2'>Autobiographical novels</option>
-                <option value='option3'>Option 3</option>
+                <option value='option1'>Coding Books </option>
+                <option value='option2'>Engineering Books </option>
+                <option value='option3'>Magazine</option>
+                <option value='option3'>DSA Books</option>
+                <option value='option3'>12th Books</option>
               </Select>
               </Box>
               <Box>

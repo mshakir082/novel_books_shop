@@ -5,7 +5,7 @@ import { BsStar, BsStarFill, BsStarHalf } from 'react-icons/bs';
 
 import {Link} from 'react-router-dom'
 
-const ProductList=({image,title,price,rating,count,id,el})=> {
+const ProductList=({image,title,price,id,el})=> {
 
     return (
       <Center py={12}>
@@ -34,20 +34,21 @@ const ProductList=({image,title,price,rating,count,id,el})=> {
 
             <Stack direction={'column'} align={'center'}>
             <Text textDecoration={'line-through'} color={'gray.600'}>
-             ₹199
+             ₹{price}
               </Text>
               <Flex justifyContent='center' gap={'10'} >
               <Text fontWeight={450} fontSize={'l'} color={'gray.600'} padding='0.5rem'>
-              ₹{price}
+              ₹{Math.ceil(price-(price*30)/100)}
               </Text>
               <Box fontWeight={450} fontSize={'l'} color={'gray.600'} display='flex'  paddingTop='-15px'>
               <Image width={'35px'}  padding='0.1rem' src={'https://previews.123rf.com/images/creativepriyanka/creativepriyanka1905/creativepriyanka190500683/124082935-rent-icon.jpg'} />
-              <Text padding='0.5rem' ml='-15px'>{'10'}</Text>
+              <Text padding='0.5rem' ml='-15px'>{'5'}</Text>
               </Box>
               </Flex>
               </Stack>
               <Box width='100%' p='0.5rem' cursor='pointer' >
-                {/* <Link to={`/HairPage/${id}`}> */}
+                <Link to={`/product/${id}`}>
+                
               <Box
                    loadingText="Submitting"
                      size="lg"
@@ -60,9 +61,9 @@ const ProductList=({image,title,price,rating,count,id,el})=> {
                    _hover={{bg: 'grey',color: 'white'}}
                 //    onClick={()=>handelClick(el)}
                   >
-                Add To Cart
+                QUICK BUY 
                 </Box>
-                
+                </Link>
               </Box>
           </Stack>
         </Box>
