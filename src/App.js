@@ -16,7 +16,7 @@ import MainRoutes from './Router/MainRoutes'
 function App() {
   return (
     <div className="App">
-      {/* <Navbar/> */}
+      <Navbar/>
       <div style={{width:'75%',height:'auto',margin:'auto'}}>
 
       <MainRoutes/>
