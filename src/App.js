@@ -12,13 +12,14 @@ import './App.css';
 import Navbar from './Components/Navbar';
 import Footer from './Components/Footer';
 import MainRoutes from './Router/MainRoutes'
+import SinglePage from './Components/SinglePage';
 
 function App() {
   return (
     <div className="App">
       <Navbar/>
       <div style={{width:'75%',height:'auto',margin:'auto'}}>
-
+{/* <SinglePage/> */}
       <MainRoutes/>
        </div>
       <Footer/>
