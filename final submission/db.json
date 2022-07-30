@@ -1,0 +1,438 @@
+{
+  "history": [
+    {
+      "id": 1,
+      "author": "Dickens Charles",
+      "Description": "David Copperfield is the story of a young man's adventures on his journey from an unhappy and impoverished childhood to the discovery of his vocation as a successful novelist. Among the gloriously vivid cast of characters he encounters are his tyrannical stepfather, Mr Murdstone; his brilliant, but ultimately unworthy school-friend James Steerforth; his formidable aunt, Betsey Trotwood; the eternally humble, yet treacherous Uriah Heep; frivolous, enchanting Dora Spenlow; and the magnificently impecunious Wilkins Micawber, one of literature's great comic creations. In David Copperfield - the novel he described as his 'favourite child' - Dickens drew revealingly on his own experiences to create one of the most exuberant and enduringly popular works, filled with tragedy and comedy in equal measure. This edition uses the text of the first volume publication of 1850, and includes updated suggestions for further reading, original illustrations by 'Phiz', a revised chronology and expanded notes. In his new introduction, Jeremy Tambling discusses the novel's autobiographical elements, and its central themes of memory and identity.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/David_Copperfield_The_Penguin_English_Library2020-12-15-16-31-05.jpg",
+      "book_name": "David Copperfield The Penguin English Library ",
+      "category": "Biography",
+      "release_year": 1998,
+      "price": 165,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "author": "Anne Brontë Peter Merchant",
+      "Description": "Librarian note: Alternate cover editions for this ISBN are:(with the title on white andon a black and blue background",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/The_Tenant_Of_Wildfell_Hall2021-11-03-09-15-09.jpg",
+      "book_name": "The Tenant Of Wildfell Hall ",
+      "category": "Biography",
+      "release_year": 2003,
+      "price": 187,
+      "day": 1
+    },
+    {
+      "id": 3,
+      "author": " Elizabeth Gaskell Martin Dodsworth Dorothy Collin",
+      "Description": "When Margaret Hale's father leaves the Church in a crisis of conscience she is forced to leave her comfortable home in the tranquil countryside of Hampshire and move with her family to the fictional industrial town of Milton in the north of England. Though at first disgusted by her new surroundings, she witnesses the brutality wrought by the Industrial Revolution and becomes aware of the poverty and suffering of the local mill workers. Sympathetic to the poor she makes friends among them and develops a fervent sense of social justice. She clashes with the mill-owner and self-made man, John Thornton, who is contemptuous of his workers. However, their fierce opposition masks a deeper attraction.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/North_And_South2021-08-06-17-28-19.jpg",
+      "book_name": "North And South ",
+      "category": "Biography",
+      "release_year": 2020,
+      "price": 198,
+      "day": 1
+    },
+    {
+      "id": 4,
+      "author": "Charles Dickens",
+      "Description": "Little Dorrit is a rich tale of love, secrets, blackmail and betrayal, and fortunes made and lost with both humorous and tragic consequences.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Little_Dorrit2021-01-04-08-20-16.jpg",
+      "book_name": "Little Dorrit",
+      "category": "Biography",
+      "release_year": 2016,
+      "price": 987,
+      "day": 1
+    },
+    {
+      "id": 5,
+      "author": "Robert Louis",
+      "Description": "Climb aboard for the swashbuckling adventure of a lifetime. Treasure Islandhas enthralled (and caused slight seasickness) for decades. The names Long John Silver and Jim Hawkins are destined to remain pieces of folklore for as long as children want to read Robert Louis Stevenson's most famous book. With it's dastardly plot and motley crew of rogues and villains, it seems unlikely that children will ever say no to this timeless classic.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Treasure_Island2020-12-18-06-08-44.jpg",
+      "book_name": "Treasure Island",
+      "category": "Art",
+      "release_year": 2007,
+      "price": 765,
+      "day": 1
+    },
+    {
+      "id": 6,
+      "author": "Cherished Plan: The Story of Puck's Hut at Benmore",
+      "Description": "Climb aboard for the swashbuckling adventure of a lifetime. Treasure Islandhas enthralled (and caused slight seasickness) for decades. The names Long John Silver and Jim Hawkins are destined to remain pieces of folklore for as long as children want to read Robert Louis Stevenson's most famous book. With it's dastardly plot and motley crew of rogues and villains, it seems unlikely that children will ever say no to this timeless classic.",
+      "cover_photo": "https://cdn.shopify.com/s/files/1/0784/8619/products/CherishedPlan_large.jpg?v=1655717480",
+      "book_name": "Treasure Island",
+      "category": "Art",
+      "release_year": 2007,
+      "price": 765,
+      "day": 1
+    },
+    {
+      "id": 7,
+      "author": "Discover the Botanic Cottage",
+      "Description": "Climb aboard for the swashbuckling adventure of a lifetime. Treasure Islandhas enthralled (and caused slight seasickness) for decades. The names Long John Silver and Jim Hawkins are destined to remain pieces of folklore for as long as children want to read Robert Louis Stevenson's most famous book. With it's dastardly plot and motley crew of rogues and villains, it seems unlikely that children will ever say no to this timeless classic.",
+      "cover_photo": "https://cdn.shopify.com/s/files/1/0784/8619/products/BotanicCottageguide_large.jpg?v=1655290868",
+      "book_name": "Treasure Island",
+      "category": "Art",
+      "release_year": 2007,
+      "price": 765,
+      "day": 1
+    },
+    {
+      "id": 8,
+      "author": "Indian Forester, Scottish Laird",
+      "Description": "Climb aboard for the swashbuckling adventure of a lifetime. Treasure Islandhas enthralled (and caused slight seasickness) for decades. The names Long John Silver and Jim Hawkins are destined to remain pieces of folklore for as long as children want to read Robert Louis Stevenson's most famous book. With it's dastardly plot and motley crew of rogues and villains, it seems unlikely that children will ever say no to this timeless classic.",
+      "cover_photo": "https://cdn.shopify.com/s/files/1/0784/8619/products/Cleghorn1_large.png?v=1571890140",
+      "book_name": "Treasure Island",
+      "category": "India",
+      "release_year": 2007,
+      "price": 765,
+      "day": 1
+    },
+    {
+      "id": 9,
+      "author": " William Dalrymple",
+      "Description": "Climb aboard for the swashbuckling adventure of a lifetime. Treasure Islandhas enthralled (and caused slight seasickness) for decades. The names Long John Silver and Jim Hawkins are destined to remain pieces of folklore for as long as children want to read Robert Louis Stevenson's most famous book. With it's dastardly plot and motley crew of rogues and villains, it seems unlikely that children will ever say no to this timeless classic.",
+      "cover_photo": "https://books.google.co.in/books/content?id=wYW5J-jQn8QC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U15xkrC0PGl1jF3yf6CPOoT1GtiTA&w=1280",
+      "book_name": "The Last Mughal",
+      "category": "India",
+      "release_year": 2009,
+      "price": 965,
+      "day": 1
+    },
+    {
+      "id": 10,
+      "author": "Robert Louis",
+      "Description": "Climb aboard for the swashbuckling adventure of a lifetime. Treasure Islandhas enthralled (and caused slight seasickness) for decades. The names Long John Silver and Jim Hawkins are destined to remain pieces of folklore for as long as children want to read Robert Louis Stevenson's most famous book. With it's dastardly plot and motley crew of rogues and villains, it seems unlikely that children will ever say no to this timeless classic.",
+      "cover_photo": "https://images-na.ssl-images-amazon.com/images/I/81Lfw-skUsL.jpg",
+      "book_name": "The Great Indian Novel",
+      "category": "India",
+      "release_year": 1989,
+      "price": 565,
+      "day": 1
+    },
+    {
+      "id": 11,
+      "author": "Jeremy Black",
+      "Description": "Covering recent historical developments, this updated atlas is an accessible visual timeline of history. Full colour.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/World_History_Atlas2022-05-10-20-13-42.jpg",
+      "book_name": "World History Atlas",
+      "category": "History",
+      "release_year": 2013,
+      "price": 226,
+      "day": 1
+    },
+    {
+      "id": 12,
+      "author": "John Keay",
+      "Description": "The first single-volume history of India since the 1950s, combining narrative pace and skill with social, economic and cultural analysis. Five millennia of the sub-continent's history are interpreted by one of our finest writers on India and the Far East.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/India_A_History2022-05-24-18-25-54.jpg",
+      "book_name": "India A History",
+      "category": "Historical",
+      "release_year": 1943,
+      "price": 200,
+      "day": 1
+    },
+    {
+      "id": 13,
+      "author": "Marr Andrew ",
+      "Description": "This engaging volume tells the story of how the great political visions and idealisms of Victorian Britain came to be defeated by a culture of consumerism, celebrity, and self-gratification. It explains how in each decade, political leaders found themselves confounded by the British people, who always turned out to be harder to herd than predicted. Historically Britain has been a country on the edge—first of invasion, then of bankruptcy, then on the vulnerable front line of the Cold War, and later in the forefront of the great opening up of capital and migration. This history follows all the political and economic stories of the modern era as well as with such social trends as comedy, cars, the war against homosexuals, oil-men and punks, Margaret Thatcher’s wonderful good luck, political lies, and the true heroes of British theater. ",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/A_History_Of_Modern_Britain2020-12-15-16-10-16.jpg",
+      "book_name": "A History Of Modern Britain",
+      "category": "History",
+      "release_year": 2008,
+      "price": 267,
+      "day": 1
+    },
+    {
+      "id": 14,
+      "author": "Bh Liddell Hart ",
+      "Description": "History of the Second World War, B.H. Liddell Hart's last work as well as his magnum opus, embodies the fruits of 20 years of research & a lifetime of thinking on war. It abounds with controversial judgments, including provocative assertions about the true causes behind France's defeat in 1940, Hitler's failed invasion of Russia & Japan's stunning victory at Pearl Harbor; the effectiveness of the Allies' strategic bombing of Germany; the questionable necessity of detonating atom bombs over Hiroshima & Nagasaki; & much more. This monumental history is both a crowning achievement & a final summation by one of the greatest military thinkers of the 20th century.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/History_Of_The_Second_World_War2022-05-30-16-29-14.jpg",
+      "book_name": "History Of The Second World War",
+      "category": "Historical",
+      "release_year": 2017,
+      "price": 226,
+      "day": 1
+    },
+    {
+      "id": 15,
+      "author": "Mike Ashley ",
+      "Description": "The story of Arthur, Camelot and the Knights of the Round Table has been handed on by medieval poets and mythical stories--but what if he did indeed reign as a great king in the early years of Britain's history? If so, who was he? And what do the historical documents tell us about him? This lively brief history re-examines the sources material and finds clear evidence that the Arthurian legends arise from the exploits of at least three men, originating in Wales, Scotland and Brittany.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/A_Brief_History_Of_King_Arthur2021-12-16-15-35-26.jpg",
+      "book_name": "A Brief History Of King Arthur",
+      "category": "History",
+      "release_year": 2013,
+      "price": 229,
+      "day": 1
+    },
+    {
+      "id": 16,
+      "author": "Ramachandra Guha ",
+      "Description": "A magisterial account of the pains, the struggles, the humiliations, and the glories of the world's largest and least likely democracy, Ramachandra Guha's India After Gandhi is a breathtaking chronicle of the brutal conflicts that have rocked a giant nation and the extraordinary factors that have held it together. An intricately researched and elegantly written epic history peopled with larger-than-life characters, it is the work of a major scholar at the peak of his abilities.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/INDIA_AFTER_GANDHI_THE_HISTORY_OF_THE_WORLDS_LARGEST_DEMOCRACY2020-07-22-12-33-05",
+      "book_name": "India After Gandhi The History Of The Worlds Largest Democracy",
+      "category": "Historical",
+      "release_year": 2007,
+      "price": 330,
+      "day": 1
+    },
+    {
+      "id": 17,
+      "author": "Geoffrey Wheatcroft ",
+      "Description": "When Henri Desgrange began a new bicycle road race in 1903, he saw it as little more than a temporary publicity stunt to promote his newspaper. The 60 cyclists who left Paris to ride through the night to Lyons that first July had little idea they were pioneers of the most famous of all bike races, which would reach its centenary as one of the greatest sporting events on earth. Geoffrey Wheatcroft's masterly history of the Tour de France's first hundred years is not just a hugely entertaining canter through some great Tour stories; nor is it merely a homage to the riders whose names—Coppi, Simpson, Mercx, Armstrong—are synonymous with the event's folly and glory. Focusing too on the race's role in French cultural life, it provides a unique and fascinating insight into Europe's 20th century.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Le_Tour_A_History_Of_The_Tour_De_France_1903_--_20032021-02-20-16-59-10.jpg",
+      "book_name": "Le Tour A History Of The Tour De France 1903",
+      "category": "Historical",
+      "release_year": 2003,
+      "price": 168,
+      "day": 1
+    },
+    {
+      "id": 18,
+      "author": "Jon Snow",
+      "Description": "The compelling autobiography of one of the great and most committed newsmen of our time: full, frank, and occasionally very funny, Jon Snow’s memoirs are as revealing about the great and the not-so-good as about his own passionate involvement in the reporting of world affairs.Jon Snow is perhaps the most highly regarded newsman of our time; his qualities as a journalist and as a human being – his passion, warmth, intelligence, frankness and humour – are widely recognised and evident for all to see most nights on Channel 4 News and now in the pages of his first book.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Shooting_History2021-12-11-17-29-40.jpg",
+      "book_name": "Shooting History",
+      "category": "History",
+      "release_year": 2006,
+      "price": 2268
+    }
+  ],
+  "romance": [
+    {
+      "id": 1,
+      "author": " Gloria Cook",
+      "Description": "The new book in the popular Harvey series - It is 1948, and the village of Hennaford is struggling to recover from the war. Johnny Harvey is disillusioned; injured in the war and disturbed at the changing society; life seems to be passing him by. Meanwhile, sixteen-year-old Tess Viant, crippled with polio and abandoned by her family, is befriended by Jill Harvey. Jill is delighted to be pregnant after four years of marriage to Tom, but when complications arise, it's Tess who has to help Jill . . .",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/A_Whisper_Of_Life_Harvey_Family_Sagas2022-06-16-11-20-45.jpg",
+      "book_name": "A Whisper Of Life Harvey Family Sagas ",
+      "category": "ROMANCE-BOOKS",
+      "release_year": 1948,
+      "price": 150,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "author": "Gloria Cook",
+      "Description": "Take one aspiring cook, one judge, and a spoonful of romance...",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Recipe_For_Love2020-12-15-16-41-20.jpg",
+      "book_name": "A Whisper Of Life Harvey Family Sagas",
+      "category": "ROMANCE-BOOKS",
+      "release_year": 2013,
+      "price": 150,
+      "day": 1
+    },
+    {
+      "id": 3,
+      "author": "Fforde Katie",
+      "Description": "nhtdjydyj",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Recipe_For_Love2020-12-15-16-41-20.jpg",
+      "book_name": "Recipe For Love",
+      "category": "ROMANCE-BOOKS",
+      "release_year": 200,
+      "price": 750,
+      "day": 1
+    },
+    {
+      "id": 4,
+      "author": "Alice Sebold ",
+      "Description": "My name was Salmon, like the fish; first name, Susie. I was fourteen when I was murdered on December 6, 1973. My murderer was a man from our neighborhood. My mother liked his border flowers, and my father talked to him once about fertilizer.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/3576",
+      "book_name": "The Lovely Bones",
+      "category": "ROMANCE-BOOKS",
+      "release_year": 2009,
+      "price": 405,
+      "day": 1
+    },
+    {
+      "id": 5,
+      "author": "John Green",
+      "Description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/6647",
+      "book_name": "The Fault In Our Stars",
+      "category": "ROMANCE-BOOKS",
+      "release_year": 1999,
+      "price": 786
+    }
+  ],
+  "science": [
+    {
+      "id": 6,
+      "author": "Meyer Stephenie",
+      "Description": "Our World has been invaded by an unseen enemy. Humans become hosts for these invaders, their minds taken over while their bodies remain intact and continue their lives apparently unchanged. Most of humanity has succumbed.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/THE_HOST_FILM_TIE_IN2020-08-31-16-05-55.jpg",
+      "book_name": "The Host",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year": 2013,
+      "price": 169,
+      "day": 1
+    },
+    {
+      "id": 7,
+      "author": "Andy Weir ",
+      "Description": "If the Oxygenator breaks down, I`ll suffocate. If the Water Reclaimer breaks down, I’ll die of thirst. If the Hab breaches, I’ll just kind of explode. If none of those things happen, I’ll eventually run out of food and starve to death.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/The_Martian_Stranded_On_Mars_One_Astronaut_Fights_To_Survive2020-12-27-02-16-34.jpg",
+      "book_name": "The Martian Stranded On Mars One Astronaut Fights To Survive",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year": 2005,
+      "price": 207,
+      "day": 1
+    },
+    {
+      "id": 8,
+      "author": "Cavan Scott",
+      "Description": "It is a dark time in a galaxy far, far away...When the parents of Milo and Lina Graf are abducted by agents of the evil Empire, the children must undertake a perilous journey across the unknown reaches of Wild Space to rescue them - and to discover hope for the future.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/The_Escape2021-01-04-07-57-03.jpg",
+      "book_name": "The Escape",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year": 2009,
+      "price": 406,
+      "day": 1
+    },
+    {
+      "id": 9,
+      "author": " Meyer Stephenie",
+      "Description": "Melanie Stryder refuses to fade away. The earth has been invaded by a species that takes over the minds of their human hosts while leaving their bodies intact, and most of humanity has succumbed.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/THE_HOST2020-08-31-15-39-14.jpg",
+      "book_name": "The Host",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year": 2008,
+      "price": 209,
+      "day": 1
+    },
+    {
+      "id": 10,
+      "author": " Isaac Asimov Chris Foss",
+      "Description": "Elijah Baley has faced Departmental hostility since his return to Earth from the planet Solaria, where he solved the first murder to be committed in 200 years. Against his will, a hyperwave drama was made of the case, thanks to Delmarre, the murder suspect whom he proved innocent.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/The_Robots_Of_Dawn_Robot_32022-07-06-11-56-00.jpg",
+      "book_name": "The Robots Of Dawn Robot",
+      "category": "SCIENCE-FICTION-BOOKS",
+      "release_year": 1998,
+      "price": 527
+    }
+  ],
+  "mystery": [
+    {
+      "id": 1,
+      "author": "Cussler Clive",
+      "Description": "In the remote wastes of Greenland, a young scientist has unearthed a hidden artefact - a 50,000 year-old meteorite known as the Sacred Stone. When he discovers its potentially catastrophic powers, he finds himself in the crosshairs of two opposing terrorist groups.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/SACRED_STONE_OREGON_FILES_22020-08-26-14-17-44",
+      "book_name": "Sacred Stone Oregon Files",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year": 2010,
+      "price": 270,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "author": " Dick Francis",
+      "Description": "It's the third death on Cheltenham Gold Cup Day that really troubles Sid Halley. He knows the perils of racing all too well - but in his day, jockeys didn't reach the finishing line with three .38 rounds in the chest. This is precisely how he finds jockey Huw Walker - who, only a few hours earlier, had won the Triumph Hurdle.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/UNDER_ORDERS2020-08-28-16-38-00",
+      "book_name": "Under Orders",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year": 2004,
+      "price": 186,
+      "day": 1
+    },
+    {
+      "id": 3,
+      "author": "Smith Wilbur",
+      "Description": "PREDATOR is a novel brimming with the swashbuckling panache and gripping tension Wilbur fans love and new reasers will be thrilled by.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/PREDATOR2020-08-25-14-41-58",
+      "book_name": "Predator",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year": 2016,
+      "price": 134,
+      "day": 1
+    },
+    {
+      "id": 4,
+      "author": "Picoult Jodi",
+      "Description": "Sara Fitzgerald's daughter Kate is just two years old when she is diagnosed with a rare form of leukaemia. Reeling with the helpless shock of it, Sara knows she will do anything - whatever it takes - to save her child.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/MY_SISTERS_KEEPER2020-08-28-17-06-07",
+      "book_name": "My Sisters Keeper",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year": 1970,
+      "price": 185,
+      "day": 1
+    },
+    {
+      "id": 5,
+      "author": "Patterson James",
+      "Description": "Detective Alex Cross is one of the first on the scene of the biggest case he's ever been part of. The President's son and daughter have been abducted from their school - an impossible crime, but somehow the kidnapper has done it. Alex does everything he can but is shunted to the fringes of the investigation. Someone powerful doesn't want Cross too close.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/KILL_ALEX_CROSS_ALEX_CROSS_182020-08-28-15-07-41",
+      "book_name": "Kill Alex Cross Alex Cross 18",
+      "category": "MYSTERY-THRILLER-ADVENTURE-BOOKS",
+      "release_year": 2012,
+      "price": 500
+    }
+  ],
+  "horror": [
+    {
+      "id": 6,
+      "author": "Stephanie Merritt",
+      "Description": "On a remote Scottish island, the McBride house stands guard over its secrets. A century ago, a young widow and her son died mysteriously there; just last year a local boy, visiting for a dare, disappeared without a trace.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/While_You_Sleep2022-06-01-14-41-11.jpg",
+      "book_name": "While You Sleep",
+      "category": "horror-books",
+      "release_year": 2013,
+      "price": 222,
+      "day": 1
+    },
+    {
+      "id": 7,
+      "author": "Masello Robert",
+      "Description": "When journalist Michael Wilde is commissioned to write a feature about a remote research station deep in the frozen beauty of Antarctica he is prepared for some extraordinary sights. But on a diving expedition in the polar sea he comes across something so extraordinary to be almost unbelievable - a man and woman chained together, deep in the ice.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Blood_And_Ice2020-12-15-16-42-31.jpg",
+      "book_name": "Blood And Ice",
+      "category": "horror-books",
+      "release_year": 2013,
+      "price": 599,
+      "day": 1
+    },
+    {
+      "id": 8,
+      "author": "Irwin Stephen",
+      "Description": "After his wife's sudden death, Nick Close has decided to leave London and return to Australia, hoping that distance will bring oblivion. But Tallong, his run-down childhood home, doesn't hold much comfort either: Thirty years ago, he and his best friend Tristram were lured into the woods at the edge of town.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/THE_DARKENING2020-08-31-19-10-23.jpg",
+      "book_name": "The Darkening",
+      "category": "horror-books",
+      "release_year": 2019,
+      "price": 590,
+      "day": 1
+    },
+    {
+      "id": 9,
+      "author": "Stephen King",
+      "Description": "Civilization slipped into its second dark age on an unsurprising track of blood but with a speed that could not have been foreseen by even the most pessimistic futurist. By Halloween, every major city from New York to Moscow stank to the empty heavens and the world as it had been was a memory.` The event became known as The Pulse. The virus was carried by every cell phone operating within the entire world. Within ten hours, most people would be dead or insane.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/Cell2021-10-11-19-06-51.jpg",
+      "book_name": "Cell",
+      "category": "horror-books",
+      "release_year": 2017,
+      "price": 790,
+      "day": 1
+    },
+    {
+      "id": 11,
+      "author": "Max Brooks",
+      "Description": "It began with rumours from China about another pandemic... Then the cases started to multiply and what had looked like the stirrings of a criminal underclass, even the beginnings of a revolution, soon revealed itself to be much, much worse. Faced with a future of mindless, man-eating horror, humanity was forced to accept the logic of world government and face events that tested our sanity and our sense of reality.",
+      "cover_photo": "https://testcub1.s3.amazonaws.com/media/images/books/World_War_Z_An_Oral_History_Of_The_Zombie_War2022-02-10-16-32-39.jpg",
+      "book_name": "World War Z An Oral History Of The Zombie War",
+      "category": "horror-books",
+      "release_year": 2011,
+      "price": 290
+    }
+  ],
+  "cart": [
+    {
+      "id": 10,
+      "author": "Robert Louis",
+      "Description": "Climb aboard for the swashbuckling adventure of a lifetime. Treasure Islandhas enthralled (and caused slight seasickness) for decades. The names Long John Silver and Jim Hawkins are destined to remain pieces of folklore for as long as children want to read Robert Louis Stevenson's most famous book. With it's dastardly plot and motley crew of rogues and villains, it seems unlikely that children will ever say no to this timeless classic.",
+      "cover_photo": "https://images-na.ssl-images-amazon.com/images/I/81Lfw-skUsL.jpg",
+      "book_name": "The Great Indian Novel",
+      "category": "India",
+      "release_year": 1989,
+      "price": 565,
+      "day": 2
+    }
+  ]
+}

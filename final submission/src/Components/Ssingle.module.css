@@ -1,0 +1,35 @@
+*{
+    font-family: "benton-sans", "Helvetica", "sans-serif";
+}
+.singlepageparent{
+    width: 90%;
+    margin: auto;
+    gap:50px;
+    display: grid;
+    grid-template-columns:30% 20% 50%;
+}
+.carousel{
+    /* border:1px solid red; */
+    height:"600px"
+}
+@media screen and (max-width:790px){
+    .carousel{
+        width:100%
+    }
+    .singlepageparent{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+
+@media screen and (min-width:790px){
+    .carousel{
+        width:100%
+    }
+}
+
+.heart{
+    color:red;
+}
+
+
