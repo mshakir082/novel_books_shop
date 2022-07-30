@@ -1,6 +1,6 @@
 ###Run the following commands 
 
-netlify Link:- https://spontaneous-alpaca-fd5fa7.netlify.app/
+netlify Link:- https://kaleidoscopic-lolly-1a6025.netlify.app/
 
 1.npm install 
 2.npm start 
