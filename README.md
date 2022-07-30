@@ -1,4 +1,7 @@
 ###Run the following commands 
+
+netlify Link:- https://spontaneous-alpaca-fd5fa7.netlify.app/
+
 1.npm install 
 2.npm start 
 3.npm run server -> to start the json-server
