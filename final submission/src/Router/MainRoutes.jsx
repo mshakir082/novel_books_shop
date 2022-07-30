@@ -10,6 +10,7 @@ import Login from '../Pages/Login'
 import SinglePage from "../Components/SinglePage";
 import First from '../Pages/First'
 import Checkout from '../Pages/Checkout'
+import Join from "../Pages/Join";
 const MainRoutes =()=>{
 
     return(
@@ -26,6 +27,7 @@ const MainRoutes =()=>{
             <Route path='/login' element={<Login/>}/>
             <Route path="/" element={<First/>}/> 
             <Route path="/checkout" element={<Checkout/>}/> 
+            <Route path="/chat" element={<Join/>}/> 
         </Routes>
         </>
     )

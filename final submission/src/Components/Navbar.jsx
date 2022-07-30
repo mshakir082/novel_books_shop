@@ -31,6 +31,7 @@ const Navbar = () => {
                     <Box width='40%'>
                         <Flex justifyContent={'space-evenly'} gap='10' >
                            <Link to='/login'> <Box cursor="pointer" >Log in</Box></Link>
+                           <Link to='/chat'> <Box cursor="pointer" >Chat</Box></Link>
                            <Link to='/home'> <Box cursor="pointer" >Home</Box></Link>
                            <Link to='/cart'>
                             <Flex cursor="pointer" >
