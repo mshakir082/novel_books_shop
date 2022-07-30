@@ -1,9 +1,9 @@
 import { Progress } from "@chakra-ui/progress";
 import {
   Box,
-  Button, 
+  Button,
   Flex,
-  Image, 
+  Image,
   Text,
   Modal,
   ModalOverlay,
@@ -15,8 +15,6 @@ import {
   useDisclosure,
 } from "@chakra-ui/react";
 
-
-
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 import styles from "./Ssingle.module.css";
 import React from "react";
@@ -25,7 +23,7 @@ import React from "react";
 // import { useSelector } from 'react-redux';
 let count = 0;
 const SinglePage = () => {
-  const { isOpen, onOpen, onClose } = useDisclosure()
+  const { isOpen, onOpen, onClose } = useDisclosure();
   // const CurrentData=useSelector(state=>state.Appreducer.products)
   // console.log(CurrentData)
   //     const[data,setData]=useState({})
@@ -42,7 +40,7 @@ const SinglePage = () => {
 
   //         console.log(data)
   return (
-    <div style={{width:'75%',height:'auto',margin:'auto'}}>
+    <div style={{ width: "75%", height: "auto", margin: "auto" }}>
       <Box className={styles.singlepageparent} marginTop={"50px"}>
         <Box justifyContent={"center"}>
           <Image
@@ -119,12 +117,10 @@ const SinglePage = () => {
           </Flex>
           <br />
 
-          {/* function BasicUsage() {
-  const { isOpen, onOpen, onClose } = useDisclosure()
-
-  return (
-    <> */}
-          <Button onClick={onOpen} colorScheme='skyblue' variant='link'>Terms And Condition</Button>
+         
+          <Button onClick={onOpen} colorScheme="skyblue" variant="link">
+            Terms And Condition
+          </Button>
 
           <Modal blockScrollOnMount={false} isOpen={isOpen} onClose={onClose}>
             <ModalOverlay />
@@ -135,14 +131,13 @@ const SinglePage = () => {
                 <Text fontWeight="bold" mb="1rem">
                   You can scroll the content behind the modal
                 </Text>
-               decr
+                decr
               </ModalBody>
 
               <ModalFooter>
                 <Button colorScheme="blue" mr={3} onClick={onClose}>
                   Close
                 </Button>
-                
               </ModalFooter>
             </ModalContent>
           </Modal>
@@ -151,7 +146,7 @@ const SinglePage = () => {
 } */}
 
           <br />
-<br/>
+          <br />
           <Box>
             <Progress
               value={80}

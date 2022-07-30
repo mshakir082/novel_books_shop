@@ -5,35 +5,35 @@ import Model1 from "../Components/bookslots/Model1";
 
 const Checkout = () => {
   const [load, setLoad] = useState(false);
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLoad(true);
+    }, 3000);
 
-
-
- useEffect(() => {
-   const timer = setTimeout(() => {
-     setLoad(true);
-   }, 3000);
-
-   return () => {
-     clearTimeout(timer);
-   };
- }, []);
+    return () => {
+      clearTimeout(timer);
+    };
+  }, []);
   return (
-    <div style={{width:'30%',height:'auto',margin:'auto'}}>
-    <Box >
-      {load ? (
-        <>
-          <Box h='500px' w='500px' m='5%'>
-            <Image src="https://media4.giphy.com/media/PijzuUzUhm7hcWinGn/giphy_s.gif" alt='auth-img'/>
-          </Box>
+    <div style={{ width: "30%", height: "auto", margin: "auto" }}>
+      <Box>
+        {load ? (
+          <>
+            <Box h="500px" w="500px" m="5%">
+              <Image
+                src="https://media4.giphy.com/media/PijzuUzUhm7hcWinGn/giphy_s.gif"
+                alt="auth-img"
+              />
+            </Box>
 
-          <Model1 />
-        </>
-      ) : (
-        <>
-          <Heading>Checking User...</Heading>
-        </>
-      )}
-    </Box>
+            <Model1 />
+          </>
+        ) : (
+          <>
+            <Heading>Checking User...</Heading>
+          </>
+        )}
+      </Box>
     </div>
   );
 };
